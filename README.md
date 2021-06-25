@@ -1,6 +1,6 @@
 # Relatório Descritivo do *Goodreads' Best Books Ever*
 
-Trabalho Prático 1 da disciplina de Ciência de Dados - UFC 2021.1. 
+Trabalho Prático 1 da disciplina de Ciência de Dados - UFC 2021.1 feito no [Google Colab](https://research.google.com/colaboratory/faq.html). Colocamos em um repositório para facilitar o acesso e a correção.
 
 ## Crie seu *environment*
 
@@ -29,7 +29,7 @@ Em seguida, clique no arquivo [GoodreadsDatasetAnalysis.ipynb](https://github.co
 
 ## Dados Utilizados
 
-O *dataset* utilizado está disponível [nesta página do Kaggle](https://www.kaggle.com/meetnaren/goodreads-best-books). O dado textual está presente no arquivo `./Dataset/book_data.csv`. Já as imagens podem ser baixadas na mesma página do problema.
+O *dataset* utilizado está disponível [nesta página do Kaggle](https://www.kaggle.com/meetnaren/goodreads-best-books). O dado textual está presente no arquivo `./Dataset/book_data.csv`. As imagens podem ser baixadas na mesma página do *dataset*.
 
 ## Autores
 
