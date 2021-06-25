@@ -27,6 +27,10 @@ jupyter notebook
 ```
 Em seguida, clique no arquivo [GoodreadsDatasetAnalysis.ipynb](https://github.com/samirbraga/GoodreadsDatasetAnalysis/blob/main/GoodreadsDatasetAnalysis.ipynb).
 
+## Dados Utilizados
+
+O *dataset* utilizado está disponível [nesta página do Kaggle](https://www.kaggle.com/meetnaren/goodreads-best-books). O dado textual está presente no arquivo `./Dataset/book_data.csv`. Já as imagens podem ser baixadas na mesma página do problema.
+
 ## Autores
 
 - Bárbara Neves, Lucas Benjamim, Samir Braga e Vinicius Bernardo.
